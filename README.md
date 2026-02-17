@@ -131,6 +131,15 @@ The script will:
 3. Run detection simulation
 4. Produce report
 
+## Execution Demonstration
+
+### Obfuscation Process Output
+![Obfuscator Output](OutputScreenshots/ObfuscatorOutput.png)
+
+### Generated Detection Report
+![Evasion Report](OutputScreenshots/EvasionReport.png)
+
+
 
 Disclaimer
 
