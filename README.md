@@ -119,6 +119,19 @@ Difference between encoding and encryption
 
 Defensive analysis methodology
 
+## How to Run
+
+git clone <repo>
+cd Custom-Payload-Encoder-Obfuscation-Framework
+python3 obfuscator.py
+
+The script will:
+1. Generate encoded payload
+2. Apply obfuscation
+3. Run detection simulation
+4. Produce report
+
+
 Disclaimer
 
 This project is created strictly for educational and defensive cybersecurity research purposes.
