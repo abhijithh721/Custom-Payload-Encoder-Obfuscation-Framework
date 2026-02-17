@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Generated payloads
+payloads/
+*.bin
+*.raw
+*.exe
+
+# Reports / runtime output
+*.txt
+*.log
+
+# OS files
+.DS_Store
